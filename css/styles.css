@@ -1,0 +1,109 @@
+body {
+
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #deddfa;
+}
+
+img {
+
+    width: 10%;
+    border-radius: 100%;
+}
+
+hr {
+
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+h6 {
+
+    font-weight: bold;
+}
+
+a {
+
+    color: black;
+}
+
+.avatar {
+
+    width: 30%;
+}
+
+.section {
+
+  
+    margin-left: 15%;
+    margin-right: 15%;
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.section-row {
+
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.section-images {
+
+    float: left;
+    margin-right: 20px;
+}
+
+.org-section {
+
+    margin-left: 15%;
+    margin-right: 15%;
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.org-section-row {
+
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.org-section-images {
+
+    float: none;
+}
+
+/************************* TOP SECTION ************************/
+
+
+.top-section {
+
+    margin-top: 60px;
+}
+
+.name {
+
+    font-family: 'Indie Flower', cursive;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/********************** CAROUSEL *******************************/
+
+.carousel-image {
+
+    width: 30%;
+}
+
+/********************** FOOTER ******************/
+
+.footer {
+
+    background-color: #dab8f3;
+    padding-top: 50px;
+    padding-bottom: 50px; 
+
+    color: white;
+    
+}
